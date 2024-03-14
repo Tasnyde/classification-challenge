@@ -51,6 +51,7 @@ This project benefits from the contributions of:
 ## Authors
 * **edX Boot Camps** - *Initial work* 
 * **Todd Snyder** - *Final work*
+* **Lebuso Philly** - *Assited and Reviewed Code*
 
 ## Acknowledgements
 We thank the providers of the dataset and acknowledge the use of open-source software in this project.
